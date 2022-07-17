@@ -69,7 +69,7 @@ npm run populate-db
 
 Cloner le repo Front-End d'Argent Bank:
 
-`git clone https://github.com/GilBrou/gillianBrousse_13_13052022`
+`git clone https://github.com/GilBrou/ArgentB`
 
 1. Ouvrir un terminal dans le project cloné.
 2. Lancer les lignes de commandes suivantes :
