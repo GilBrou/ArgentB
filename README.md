@@ -88,4 +88,3 @@ Une fois l'application lancée, vous pouvez vous connecter avec deux utilisateur
 
 1. tony@stark.com // Password: password123
 1. steve@rogers.com // Password: password456
-# ArgentB
