@@ -26,7 +26,6 @@ Environnement de travail :
         MongoDB
         Les devtools de Google Chrome. 
         React et React Router.      
-        Netlify pour héberger le site.
 
 
 ![Preview](https://raw.githubusercontent.com/GilBrou/ArgentB/master/Site1.webp)
