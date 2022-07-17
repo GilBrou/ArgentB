@@ -2,7 +2,7 @@
 
 Projet réalisé dans le cadre de la formation developpeur front-end d'Openclassrooms.
 
-![Preview](https://raw.githubusercontent.com/GilBrou/ArgenBank/master/src/ressources/argentBankLogo.png)
+![Preview](https://raw.githubusercontent.com/GilBrou/ArgenB/master/src/ressources/argentBankLogo.png)
 
 Projet :
 
@@ -29,9 +29,9 @@ Environnement de travail :
         Netlify pour héberger le site.
 
 
-![Preview](https://raw.githubusercontent.com/GilBrou/ArgenBank/master/Site1.webp)
+![Preview](https://raw.githubusercontent.com/GilBrou/ArgenB/master/Site1.webp)
 
-![Preview](https://raw.githubusercontent.com/GilBrou/ArgenBank/master/Site2.webp)
+![Preview](https://raw.githubusercontent.com/GilBrou/ArgenB/master/Site2.webp)
 
 ## Installation
 
